@@ -1,7 +1,7 @@
 
- def parrot noise: "Squawk!"
+ def parrot(noise: "Squawk!")
   puts "The Parrot says" + Squawk! 
   end
 
 
-parrot
+puts parrot
