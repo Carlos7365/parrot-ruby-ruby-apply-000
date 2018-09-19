@@ -5,4 +5,4 @@
   end
 
 parrot
-parrot(x: "Pretty bird")
+parrot(x: "Pretty bird!")
