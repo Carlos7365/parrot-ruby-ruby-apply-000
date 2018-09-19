@@ -4,4 +4,4 @@
   return x
   end
 
-parrot("Pretty bird")
+parrot(x: "Pretty bird")
