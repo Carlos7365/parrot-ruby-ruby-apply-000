@@ -4,4 +4,6 @@
   return x
   end
 
-parrot("Pretty bird")
+parrot(x: "Pretty bird")
+puts parrot
+return parrot
