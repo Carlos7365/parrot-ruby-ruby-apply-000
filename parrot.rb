@@ -1,7 +1,7 @@
 
- def parrot(Squawk!
-  puts "The Parrot " + Squawk! 
+ def parrot noise: "Squawk!"
+  puts "The Parrot says" + Squawk! 
   end
 
-# returns the phrase
-parrot ("talks back")
+
+parrot
