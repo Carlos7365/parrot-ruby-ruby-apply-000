@@ -1,5 +1,5 @@
 
- def parrot(Squawk!)
+ def parrot(Squawk!
   puts "The Parrot " + Squawk! 
   end
 
