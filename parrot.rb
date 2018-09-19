@@ -1,6 +1,6 @@
 
  def parrot(noise: "Squawk!")
-  puts "The Parrot says" + Squawk! 
+  return noise 
   end
 
 
