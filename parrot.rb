@@ -1,7 +1,7 @@
 
- def parrot(noise: "Squawk!")
-  puts noise
-  return noise 
+ def parrot(x: "Squawk!")
+  puts x
+  return x
   end
 
 
