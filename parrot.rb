@@ -5,4 +5,5 @@
   end
 
 
-parrot("Pretty bird!")
+puts parrot("Pretty bird!")
+return parrot("Pretty bird")
